@@ -3,10 +3,10 @@ I'm Muhamad Gibran Al Mumbait
 
 ### About Me
 - 🌱 I’m currently learning Web Development and UI/UX Design
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/muhamad-gibran-al-mumbait-232a85250/">
+- 📫 How to reach me  <a href="https://www.linkedin.com/in/muhamad-gibran-al-mumbait-232a85250/" style"top:10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  [My-LinkedIn](https://www.linkedin.com/in/muhamad-gibran-al-mumbait-232a85250/) Let'S Be Friend
+    Let's Be Friend
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about anything
 - 😄 Pronouns: He/Him
