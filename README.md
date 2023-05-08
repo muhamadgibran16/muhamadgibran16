@@ -1,9 +1,5 @@
 ### Hi there 👋
 I'm Muhamad Gibran Al Mumbait
-<!--
-**muhamadgibran16/muhamadgibran16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: [My-LinkedIn](https://www.linkedin.com/in/muhamad-gibran-al-mumbait-232a85250/)
