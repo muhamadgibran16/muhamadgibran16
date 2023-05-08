@@ -10,7 +10,10 @@ I'm Muhamad Gibran Al Mumbait
 <a href="https://github.com/muhamadgibran16">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamadgibran16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadgibran16&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="[![Muhamad Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadgibran16)](https://github.com/muhamadgibran16/github-readme-stats)"/>
-
   </a>
+</p>
+<p align="left">
+<a href="https://github.com/muhamadgibran16">
+  <img height="180em" src="[![Muhamad Gibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadgibran16)](https://github.com/muhamadgibran16/github-readme-stats)"/>
+</a>
 </p>
