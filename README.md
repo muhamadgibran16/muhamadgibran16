@@ -3,7 +3,7 @@ I'm Muhamad Gibran Al Mumbait
 
 ### About Me
 - 🌱 I’m currently learning Web Development and UI/UX Design
-- 📫 How to reach me  <a href="https://www.linkedin.com/in/muhamad-gibran-al-mumbait-232a85250/" style"top:10px;">
+- 📫 How to reach me  <a href="https://www.linkedin.com/in/muhamad-gibran-al-mumbait-232a85250/" style"padding-top: 7px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     Let's Be Friend
