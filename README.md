@@ -75,7 +75,7 @@
 -->
 
 
-<h2 align="center"> Statistics </h2><br>
+<h2 align="center"> Statistics </h2>
 <div align="let">
   <!-- <p align="left"> -->
   <a href="https://github.com/muhamadgibran16">
@@ -99,9 +99,7 @@
 
 <h2 align="center"> Trophies </h2>
 
-<br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhamadgibran16&theme=onedark&column=9&margin-w=20)](https://github.com/muhamadgibran16/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhamadgibran16&theme=algolia&column=9&margin-w=20)](https://github.com/muhamadgibran16/github-profile-trophy)
 
 
 
