@@ -10,7 +10,7 @@
 ![Muhamadgibran16's card name](https://cardivo.vercel.app/api?name=Muhamad%20Gibran&description=Backend%20Developer%20Enthusiast%20&image=https://raw.githubusercontent.com/muhamadgibran16/muhamadgibran16/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 -->
 
----
+
 
 <h2 align='center'>Languages and Tools</h2>
 <table width="100">
@@ -73,8 +73,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...?
 -->
----
-<h3 align="center"> Statistics </h3><br>
+
+
+<h2 align="center"> Statistics </h2><br>
 <div align="let">
   <!-- <p align="left"> -->
   <a href="https://github.com/muhamadgibran16">
@@ -94,16 +95,13 @@
 
 </div>
 
----
 
-<h3 align="center"> Trophies </h3>
+
+<h2 align="center"> Trophies </h2>
 
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhamadgibran16&theme=onedark&column=9&margin-w=20)](https://github.com/muhamadgibran16/github-profile-trophy)
 
----
-
-<h3 align="center">👇 Below is My Popular Repositories</h3>
 
 
