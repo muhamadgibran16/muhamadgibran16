@@ -33,12 +33,4 @@ I'm Muhamad Gibran Al Mumbait
 
 ---
 
-<h3 align="center">🛡️ Badges 🛡️</h3>
-
-<br />
-
-[![@musshal's Holopin board](https://holopin.me/muhamadgibran16)](https://holopin.io/@muhamadgibran16)
-
----
-
 <h3 align="center">👇 Below is My Popular Repositories</h3>
