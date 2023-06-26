@@ -93,7 +93,7 @@
   <!-- <p align="left"> -->
   <a href="https://github.com/muhamadgibran16">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamadgibran16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadgibran16&layout=compact&langs_count=8&theme=react"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamadgibran16&layout=compact&langs_count=8&theme=algolia"/>
     <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadgibran16&theme=algolia&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Muhamad Gibran's github stats" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadgibran16&theme=react-dark&hide_border=false" alt="Muhamad Gibran's activity graph" />
   </a>
