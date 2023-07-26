@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I+am+Muhamad+Gibran;Welcome+to+My+Profile;Nice+to+Meet+You!&center=true&size=28" alt="Gibran running text"/>
   </a>
 </h1>
-
-![Muhamadgibran16's card name](https://cardivo.vercel.app/api?name=Muhamad%20Gibran&description=<b>Backend%20Developer%20Enthusiast%20</b><br/>%20A%20passionate%20Junior%20Developer%20with%20a%20strong%20foundation%20in%20software%20development%20and%20a%20commitment%20to%20continuous%20learning%20and%20growth.%20Experienced%20in%20working%20collaboratively%20within%20a%20team%20and%20quickly%20adapting%20to%20fast-paced%20and%20dynamic%20environments.%20Demonstrates%20strong%20analytical%20skills%20for%20problem-solving%20and%20effective%20communication%20in%20understanding%20user%20needs.%20Ready%20to%20contribute%20and%20thrive%20in%20a%20role%20as%20a%20Junior%20Developer%20to%20support%20business%20goals%20through%20innovative%20technological%20solutions.%20&image=https://raw.githubusercontent.com/muhamadgibran16/muhamadgibran16/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 <table width="100" align='center'>
 <tr>
     <td align='center' width="120">
@@ -19,10 +17,7 @@
 </tr>
 </table>
 
-<!--
-![Muhamadgibran16's card name](https://cardivo.vercel.app/api?name=Muhamad%20Gibran&description=Backend%20Developer%20Enthusiast%20&image=https://raw.githubusercontent.com/muhamadgibran16/muhamadgibran16/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
--->
-
+![Muhamadgibran16's card name](https://cardivo.vercel.app/api?name=Muhamad%20Gibran&description=<b>Backend%20Engineer%20Enthusiast%20</b><br/>%20&image=https://raw.githubusercontent.com/muhamadgibran16/muhamadgibran16/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 
 
 <h2 align='center'>Languages and Tools</h2>
