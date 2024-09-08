@@ -27,31 +27,43 @@
         <img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" width="70">
     </td>
     <td align='center' width="190" height="30">
-        <img src="https://api.iconify.design/vscode-icons/vscode-icons--file-type-typescript-official.svg" width="70">
+        <img src="https://api.iconify.design/devicon/typescript.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://api.iconify.design/logos/nodejs.svg" width="90">
     </td>
+    <td align='center' width="190" height="30">
+        <img src="https://api.iconify.design/devicon/nestjs.svg" width="60">
+    </td>
     <td align='center'  width="190">
-        <img src="https://api.iconify.design/devicon/express-wordmark.svg" width="100">
+        <img src="https://api.iconify.design/skill-icons/expressjs-light.svg" width="60">
+    </td>
+    <td align='center' width="190">
+         <img src="https://api.iconify.design/devicon/postgresql.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://api.iconify.design/devicon/mysql-wordmark.svg" width="90">
     </td>
-    <td align='center' width="190">
-        <img src="https://api.iconify.design/devicon/sequelize-wordmark.svg" width="110">
-    </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://api.iconify.design/logos/typeorm.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://api.iconify.design/devicon/prisma.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://api.iconify.design/devicon/sequelize.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-</tr>
-<tr>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
-    </td>
+    </td> -->
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="110">
     </td>
@@ -61,14 +73,11 @@
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="https://api.iconify.design/devicon/php.svg" width="90">
-    </td>
-    <td align='center'>
-        <img src="https://api.iconify.design/devicon/bootstrap-wordmark.svg" width="70">
     </td>
 </tr>
 </table>
