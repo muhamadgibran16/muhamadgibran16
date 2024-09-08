@@ -26,6 +26,9 @@
     <td align='center' width="190" height="30">
         <img src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" width="70">
     </td>
+    <td align='center' width="190" height="30">
+        <img src="https://api.iconify.design/vscode-icons/file-type-ts-official.svg" width="70">
+    </td>
     <td align='center' width="190">
         <img src="https://api.iconify.design/logos/nodejs.svg" width="90">
     </td>
