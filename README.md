@@ -9,10 +9,10 @@
         <a href="mailto:muhamadgibran2333@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" width="120"></a>
     </td>
     <td align='center' width="120">
-        <a href="https://www.instagram.com/muhamadgibran_/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="120"></a>
+        <a href="https://www.instagram.com/muhamadgibran_/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="130"></a>
     </td>
     <td align='center' width="120">
-        <a href="https://www.linkedin.com/in/muhamad-gibran-al-mumbait/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="120"></a>
+        <a href="https://www.linkedin.com/in/muhamad-gibran-al-mumbait/"><img src="https://api.iconify.design/logos/linkedin.svg" width="90"></a>
     </td>
 </tr>
 </table>
@@ -59,13 +59,19 @@
         <img src="https://api.iconify.design/devicon/sequelize.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://api.iconify.design/devicon/react.svg" width="60">
     </td>
+<!--     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td> -->
 <!--     <td align='center'>
         <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
     </td> -->
-     <td align='center' width="190">
+<!--      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="110">
+    </td> -->
+    <td align='center' width="190">
+        <img src="https://api.iconify.design/devicon/python.svg" width="70">
     </td>
     <td align='center'  width="190">
         <img src="https://api.iconify.design/devicon/flask-wordmark.svg" width="110">
