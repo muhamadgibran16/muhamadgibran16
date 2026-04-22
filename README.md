@@ -17,7 +17,7 @@
 </tr>
 </table>
 
-![Muhamadgibran16's card name](https://cardivo.vercel.app/api?name=Muhamad%20Gibran&description=<b>Backend%20Engineer%20Enthusiast%20</b><br/>%20&image=https://raw.githubusercontent.com/muhamadgibran16/muhamadgibran16/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
+![Muhamadgibran16's card name](https://cardivo.vercel.app/api?name=Muhamad%20Gibran&description=<b>Software%20Engineer%20</b><br/>%20&image=https://raw.githubusercontent.com/muhamadgibran16/muhamadgibran16/main/ReadyPlayerMe-Avatar.png?v=4&fontColor=%23ffffff&backgroundColor=%232A272A&iconColor=%23fff&pattern=iLikeFood&colorPattern=%23000)
 
 
 <h2 align='center'>Languages and Tools</h2>
